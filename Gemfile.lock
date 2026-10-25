@@ -2,16 +2,16 @@ GEM
   remote: https://rubygems.org/
   specs:
     base64 (0.3.0)
-    discordrb (3.7.2)
+    discordrb (3.8.0)
       base64 (~> 0.2)
-      discordrb-webhooks (~> 3.7.2)
+      discordrb-webhooks (~> 3.8.0)
       ffi (>= 1.9.24)
       opus-ruby
       rest-client (>= 2.0.0)
       websocket-client-simple (>= 0.9.0)
-    discordrb-webhooks (3.7.2)
+    discordrb-webhooks (3.8.0)
       rest-client (>= 2.0.0)
-    domain_name (0.6.20240107)
+    domain_name (0.7.20261007)
     event_emitter (0.2.6)
     ffi (1.17.4)
     ffi (1.17.4-x86_64-linux-gnu)
@@ -22,7 +22,7 @@ GEM
     mime-types (3.7.0)
       logger
       mime-types-data (~> 3.2025, >= 3.2025.0507)
-    mime-types-data (3.2026.0414)
+    mime-types-data (3.2026.1020)
     mutex_m (0.3.0)
     netrc (0.11.0)
     opus-ruby (1.0.1)
